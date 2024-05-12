@@ -16,7 +16,7 @@
         android:layout_alignParentTop="true"
         android:layout_marginTop="16dp"
         android:text="Add Task"
-        android:textColor="@color/orange"
+        android:textColor="@color/light_blue"
         android:textSize="24sp"
         android:fontFamily="@font/poppins"/>
 
